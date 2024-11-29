@@ -1,0 +1,165 @@
+{
+    "books": [
+      {
+        "id": 1,
+        "title": "Les Misérables",
+        "author": "Victor Hugo",
+        "year": 1862,
+        "genre": "Roman historique",
+        "available": true
+      },
+      {
+        "id": 2,
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "year": 1857,
+        "genre": "Roman réaliste",
+        "available": false
+      },
+      {
+        "id": 3,
+        "title": "Le Petit Prince",
+        "author": "Antoine de Saint-Exupéry",
+        "year": 1943,
+        "genre": "Conte philosophique",
+        "available": true
+      },
+      {
+        "id": 4,
+        "title": "Germinal",
+        "author": "Émile Zola",
+        "year": 1885,
+        "genre": "Roman naturaliste",
+        "available": true
+      },
+      {
+        "id": 5,
+        "title": "Le Rouge et le Noir",
+        "author": "Stendhal",
+        "year": 1830,
+        "genre": "Roman psychologique",
+        "available": false
+      },
+      {
+        "id": 6,
+        "title": "Candide",
+        "author": "Voltaire",
+        "year": 1759,
+        "genre": "Conte philosophique",
+        "available": true
+      },
+      {
+        "id": 7,
+        "title": "Les Fleurs du mal",
+        "author": "Charles Baudelaire",
+        "year": 1857,
+        "genre": "Poésie",
+        "available": true
+      },
+      {
+        "id": 8,
+        "title": "L'Étranger",
+        "author": "Albert Camus",
+        "year": 1942,
+        "genre": "Roman philosophique",
+        "available": true
+      },
+      {
+        "id": 9,
+        "title": "À la recherche du temps perdu",
+        "author": "Marcel Proust",
+        "year": 1913,
+        "genre": "Roman",
+        "available": false
+      },
+      {
+        "id": 10,
+        "title": "La Peste",
+        "author": "Albert Camus",
+        "year": 1947,
+        "genre": "Roman philosophique",
+        "available": true
+      },
+      {
+        "id": 11,
+        "title": "Bel-Ami",
+        "author": "Guy de Maupassant",
+        "year": 1885,
+        "genre": "Roman réaliste",
+        "available": true
+      },
+      {
+        "id": 12,
+        "title": "Une vie",
+        "author": "Guy de Maupassant",
+        "year": 1883,
+        "genre": "Roman",
+        "available": false
+      },
+      {
+        "id": 13,
+        "title": "Notre-Dame de Paris",
+        "author": "Victor Hugo",
+        "year": 1831,
+        "genre": "Roman historique",
+        "available": true
+      },
+      {
+        "id": 14,
+        "title": "Le Père Goriot",
+        "author": "Honoré de Balzac",
+        "year": 1835,
+        "genre": "Roman réaliste",
+        "available": true
+      },
+      {
+        "id": 15,
+        "title": "La Princesse de Clèves",
+        "author": "Madame de La Fayette",
+        "year": 1678,
+        "genre": "Roman classique",
+        "available": false
+      },
+      {
+        "id": 16,
+        "title": "Le Comte de Monte-Cristo",
+        "author": "Alexandre Dumas",
+        "year": 1844,
+        "genre": "Roman d'aventure",
+        "available": true
+      },
+      {
+        "id": 17,
+        "title": "Les Trois Mousquetaires",
+        "author": "Alexandre Dumas",
+        "year": 1844,
+        "genre": "Roman d'aventure",
+        "available": true
+      },
+      {
+        "id": 18,
+        "title": "Cyrano de Bergerac",
+        "author": "Edmond Rostand",
+        "year": 1897,
+        "genre": "Théâtre",
+        "available": false
+      },
+      {
+        "id": 19,
+        "title": "Les Confessions",
+        "author": "Jean-Jacques Rousseau",
+        "year": 1782,
+        "genre": "Autobiographie",
+        "available": true
+      },
+      {
+        "id": 20,
+        "title": "La Chartreuse de Parme",
+        "author": "Stendhal",
+        "year": 1839,
+        "genre": "Roman psychologique",
+        "available": true
+      }
+    ]
+  }
+  
